@@ -1,0 +1,8 @@
+# Laravel / PHP
+/vendor
+/storage
+/.env
+# Node / build
+node_modules
+# Misc
+*.log
