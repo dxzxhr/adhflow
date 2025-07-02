@@ -17,3 +17,9 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+rr
+.rr.yaml
+# PHP
+/bootstrap/cache
+/storage
+/src/.env*.bak
